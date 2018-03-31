@@ -2,6 +2,9 @@
 
 # PCD8544_LCD
 
+
+<p align="center"> <img src="./misc/pcd8544.jpg"> </p>
+
 Code to control PCD8544 LCD dispay for Raspberry PI. To run this code do the following:
 
 * WiringPI library is required to compile/run PCD8544 code. You can install it using the following command:
