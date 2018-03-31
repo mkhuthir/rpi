@@ -38,7 +38,7 @@ Lesser General Public License for more details.
 #include <stdlib.h>
 #include <string.h>
 #include <sys/sysinfo.h>
-#include "PCD8544.h"
+#include "lib/PCD8544.h"
 #include <sys/types.h> 
 #include <sys/stat.h> 
 #include <fcntl.h>
@@ -113,7 +113,7 @@ int main (void)
 
     // build screen
     //LCDdrawstring(0, 0, "Raspberry Pi:");
-    LCDdrawstring(0, 0, "SunFounder.com");
+    LCDdrawstring(0, 0, "MuthannaAttyah");
     LCDdrawline(0, 10, 83, 10, BLACK);
     LCDdrawstring(0, 12, uptimeInfo);
     LCDdrawstring(0, 20, cpuInfo);
