@@ -13,6 +13,18 @@ Code to control PCD8544 LCD dispay for Raspberry PI. To run this code do the fol
 $ sudo apt-get install wiringpi
 ```
 
+* clone this repo to a local folder such as `rpi`
+
+```bash
+$ git clone https://github.com/mkhuthir/RaspberryPi.git rpi
+```
+
+* change to PCD8544_LCD folder
+
+```bash
+$ cd rpi/PCD8544_LCD/
+```
+
 * compile code:
 
 ```bash
