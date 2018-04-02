@@ -25,7 +25,7 @@ $ git clone https://github.com/mkhuthir/RaspberryPi.git rpi
 $ cd rpi/PCD8544_LCD/
 ```
 
-* compile code:
+* compile the code and run it:
 
 ```bash
 $ ./compile.sh
