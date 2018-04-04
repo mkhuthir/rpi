@@ -3,7 +3,7 @@
 # PCD8544_LCD
 
 
-<p align="center"> <img src="./misc/pcd8544.jpg"> </p>
+<p align="center"> <img src="../misc/pcd8544.jpg"> </p>
 
 Code to control PCD8544 LCD dispay for Raspberry PI. To run this code do the following:
 
