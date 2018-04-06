@@ -7,9 +7,11 @@
 To obtain this repository, navigate to a folder of your choosing on your PC, make sure **git** is installed locally:
 
 ```bash
-sudo apt-get install git
+$ sudo apt-get install git
 ``` 
 
-Then clone this repo:
+Then clone this repo to **rpi** folder or any folder of your choice:
 
-git clone 
+```bash
+$ git clone https://github.com/mkhuthir/RaspberryPi.git rpi
+```
