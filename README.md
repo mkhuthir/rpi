@@ -15,3 +15,5 @@ Then clone this repository to a local folder such as **rpi**
 ```bash
 $ git clone https://github.com/mkhuthir/RaspberryPi.git rpi
 ```
+
+See subfolders for instructions of each example
