@@ -1,7 +1,3 @@
-<p align="center"> <img src="./misc/rpi3ap.jpg"> </p>
-<p align="center"> <img src="./misc/rpi3bp.jpg"> </p>
-<p align="center"> <img src="./misc/rpizw.jpg"> </p>
-
 
 # Raspberry PI code examples
 
@@ -23,3 +19,13 @@ $ git clone https://github.com/mkhuthir/RaspberryPi.git rpi
 ```
 
 See subfolders for instructions of each example
+
+## Raspberry Pi 3 A+
+<p align="center"> <img src="./misc/rpi3ap.jpg"> </p>
+
+## Raspberry Pi 3 B+
+<p align="center"> <img src="./misc/rpi3bp.jpg"> </p>
+
+## Raspberry PI Zero W
+<p align="center"> <img src="./misc/rpizw.jpg"> </p>
+
