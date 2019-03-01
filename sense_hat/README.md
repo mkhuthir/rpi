@@ -15,12 +15,12 @@ The [Raspberry Pi Sense HAT](https://www.raspberrypi.org/products/sense-hat/) fe
 
 ## Installation
 
-To install the Sense HAT software, enter the following commands in a terminal::
+To install the Sense HAT software, enter the following commands:
 
 ```bash
-sudo apt-get update
-sudo apt-get install sense-hat
-sudo reboot
+$ sudo apt-get update
+$ sudo apt-get install sense-hat
+$ sudo reboot
 ```
 
 ## Usage
@@ -28,8 +28,12 @@ sudo reboot
 Hello world example:
 
 ```python
+
 from sense_hat import SenseHat
+
 sense = SenseHat()
+
 sense.show_message("Hello world!")
+
 ```
 
