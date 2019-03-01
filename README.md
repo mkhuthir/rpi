@@ -20,12 +20,30 @@ $ git clone https://github.com/mkhuthir/RaspberryPi.git rpi
 
 See subfolders for instructions of each example
 
+
+## Raspberry Pi A+
+<p align="center"> <img src="./misc/rpiap.jpg"> </p>
+<p align="center"> <img src="./misc/rpiap_b.jpg"> </p>
+
+## Raspberry Pi B+
+<p align="center"> <img src="./misc/rpi3bp.jpg"> </p>
+<p align="center"> <img src="./misc/rpi3bp_b.jpg"> </p>
+
 ## Raspberry Pi 3 A+
 <p align="center"> <img src="./misc/rpi3ap.jpg"> </p>
+<p align="center"> <img src="./misc/rpi3ap_b.jpg"> </p>
 
 ## Raspberry Pi 3 B+
 <p align="center"> <img src="./misc/rpi3bp.jpg"> </p>
+<p align="center"> <img src="./misc/rpi3bp_b.jpg"> </p>
 
 ## Raspberry PI Zero W
 <p align="center"> <img src="./misc/rpizw.jpg"> </p>
+<p align="center"> <img src="./misc/rpizw_b.jpg"> </p>
+
+## Raspberry PI Zero
+<p align="center"> <img src="./misc/rpiz.jpg"> </p>
+<p align="center"> <img src="./misc/rpiz_b.jpg"> </p>
+
+
 
