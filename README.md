@@ -1,7 +1,8 @@
 # Raspberry PI code examples
 
-* PCD8544_LCD: Code examples to control Raspberry PI PCD8544 display
-* pi_camera: Code example to control Rspberry PI Camera
+* **pcd8544_lcd**: Code examples to control Raspberry PI PCD8544 display
+* **pi_camera**: Code example to control Rspberry PI Camera
+* **sense_hat**: The RaspberryPi Sense HAT code examples 
 
 ## Cloning the repository
 
