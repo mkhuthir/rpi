@@ -1,7 +1,6 @@
-# Sense Hat## Usage
+# Sense Hat
 
-
-The Sense HAT [Raspberry Pi Sense HAT](https://www.raspberrypi.org/products/sense-hat/) features an 8x8 RGB LED matrix, a mini joystick and the following sensors:
+The [Raspberry Pi Sense HAT](https://www.raspberrypi.org/products/sense-hat/) features an 8x8 RGB LED matrix, a mini joystick and the following sensors:
 
 * Gyroscope
 * Accelerometer
