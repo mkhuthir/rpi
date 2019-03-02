@@ -1,9 +1,13 @@
-# Sense HAT examples
+# Sense HAT Joystick examples
 
-- [Colour cycle](colour_cycle.py)
-- [Compass](compass.py)
-- [PyGame Joystick](pygame_joystick.py)
-- [Rainbow](rainbow.py)
-- [Rotation](rotation.py)
-- [Space Invader](space_invader.py)
-- [Text scroll](text_scroll.py)
+- [Arrows Game](arrows_game.py)
+- [Rainbow Colors](rainbow.py)
+- [Joystick Lights](evdev_joystick.py)
+- [Shake Me Game](shake_me.py)
+
+
+if not installed you will need to install **evdev** python library for evdev_joystick.py example:
+
+'''bash
+sudo pip install evdev
+'''
