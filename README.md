@@ -26,8 +26,8 @@ See subfolders for instructions of each example
 <p align="center"> <img src="./misc/rpiap_b.jpg"> </p>
 
 ## Raspberry Pi B+
-<p align="center"> <img src="./misc/rpi3bp.jpg"> </p>
-<p align="center"> <img src="./misc/rpi3bp_b.jpg"> </p>
+<p align="center"> <img src="./misc/rpibp.jpg"> </p>
+<p align="center"> <img src="./misc/rpibp_b.jpg"> </p>
 
 ## Raspberry Pi 3 A+
 <p align="center"> <img src="./misc/rpi3ap.jpg"> </p>
