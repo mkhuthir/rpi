@@ -6,8 +6,8 @@
 - [Shake Me Game](shake_me.py)
 
 
-if not installed you will need to install **evdev** python library for evdev_joystick.py example:
+* if not installed you will need to install **evdev** python library for evdev_joystick.py example:
 
-'''bash
+```bash
 sudo pip install evdev
-'''
+```
