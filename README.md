@@ -33,6 +33,10 @@ See subfolders for instructions of each example
 <p align="center"> <img src="./misc/rpi3ap.jpg"> </p>
 <p align="center"> <img src="./misc/rpi3ap_b.jpg"> </p>
 
+## Raspberry Pi 3 B
+<p align="center"> <img src="./misc/rpi3b.jpg"> </p>
+
+
 ## Raspberry Pi 3 B+
 <p align="center"> <img src="./misc/rpi3bp.jpg"> </p>
 <p align="center"> <img src="./misc/rpi3bp_b.jpg"> </p>
