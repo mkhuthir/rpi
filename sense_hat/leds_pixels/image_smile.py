@@ -3,4 +3,4 @@ from sense_hat import SenseHat
 
 sense = SenseHat()
 sense.clear()
-sense.load_image("space_invader.png")
+sense.load_image("smile.png")
