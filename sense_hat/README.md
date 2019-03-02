@@ -1,31 +1,26 @@
+<p align="center"> <img src="../misc/sense_hat.jpg"> </p>
 
-# Raspberry PI code examples
 
-* **pcd8544_lcd**: Code examples to control Raspberry PI PCD8544 display
-* **pi_camera**: Code example to control Rspberry PI Camera
-* **sense_hat**: The RaspberryPi Sense HAT code examples 
+# Sense Hat
 
-## Cloning the repository
-
-To obtain this repository, make sure **git** is installed locally:
-
+The [Raspberry Pi Sense HAT](https://www.raspberrypi.org/products/sense-hat/) features an 8x8 RGB LED matrix, a mini joystick and the following sensors:
+* Gyroscope
+* Accelerometer
+* Magnetometer
+* Temperature
+* Humidity
+* Barometric pressure
+## Installation
+To install the Sense HAT software, enter the following commands in a terminal::
 ```bash
-$ sudo apt-get install git
-``` 
-Then clone this repository to a local folder such as **rpi**
-
-```bash
-$ git clone https://github.com/mkhuthir/RaspberryPi.git rpi
+sudo apt-get update
+sudo apt-get install sense-hat
+sudo reboot
 ```
-
-See subfolders for instructions of each example
-
-## Raspberry Pi 3 A+
-<p align="center"> <img src="./misc/rpi3ap.jpg"> </p>
-
-## Raspberry Pi 3 B+
-<p align="center"> <img src="./misc/rpi3bp.jpg"> </p>
-
-## Raspberry PI Zero W
-<p align="center"> <img src="./misc/rpizw.jpg"> </p>
-
+## Usage
+Hello world example:
+```python
+from sense_hat import SenseHat
+sense = SenseHat()
+sense.show_message("Hello world!")
+```
