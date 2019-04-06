@@ -22,7 +22,7 @@ See subfolders for instructions of each example
 
 
 ## Raspberry Pi Pins
-<p align="center"> <img src="./misc/rpi_pins.jpg"> </p>
+<p align="center"> <img src="./misc/rpi_pins.png"> </p>
 
 ## Raspberry Pi A+
 <p align="center"> <img src="./misc/rpiap.jpg"> </p>
