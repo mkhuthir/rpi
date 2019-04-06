@@ -21,6 +21,9 @@ $ git clone https://github.com/mkhuthir/RaspberryPi.git rpi
 See subfolders for instructions of each example
 
 
+## Raspberry Pi Pins
+<p align="center"> <img src="./misc/rpi_pins.jpg"> </p>
+
 ## Raspberry Pi A+
 <p align="center"> <img src="./misc/rpiap.jpg"> </p>
 <p align="center"> <img src="./misc/rpiap_b.jpg"> </p>
